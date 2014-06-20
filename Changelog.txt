@@ -1,0 +1,6 @@
+Version = BETA 0.0.6:
+- Fixed Image compatibility
+
+Version = BETA 0.0.5:
+- Added images
+- Added functioning config, header, index and custom page template
